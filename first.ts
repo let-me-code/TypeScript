@@ -1,0 +1,15 @@
+let myString: string;
+let x: number;
+let abc: any;
+let tuple: [string,number];
+let arrcheck: number[];
+x=19;
+myString="hello";
+abc="again a string";
+tuple=["hello",4];
+arrcheck=[1,2,3,4,5];
+console.log(myString);
+console.log(x);
+console.log(abc);
+console.log(tuple);
+console.log(arrcheck);
