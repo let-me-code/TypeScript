@@ -8,7 +8,7 @@ $>npm install -g typescript
 ###### As typescript is not supported by browser , we have to use typescript (tsc) compiler to compile the typescript file to javascript.
 
 3. Run the compiler in Watch mode.
-tsc filename.ts -w
+$>tsc filename.ts -w
   
 4. It will make a javascript file with the same name as typescript file name. 
 
